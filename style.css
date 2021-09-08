@@ -62,7 +62,7 @@ nav ul{
 }
 nav ul li{
     font-size: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
     cursor: pointer;
     transition: all .3s;
 }
